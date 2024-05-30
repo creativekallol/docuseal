@@ -1,0 +1,27 @@
+<T3DataStructure>
+	<sheets>
+		<sDEF>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:docuseal/Resources/Private/Language/locallang_db.xlf:flexform.head</sheetTitle>
+				</TCEforms>
+				<type>array</type>
+				<el>
+					<settings.redirectAfterSign>
+                        <TCEforms>
+                            <label>LLL:EXT:docuseal/Resources/Private/Language/locallang_db.xlf:flexform.redirectAfterSign</label>
+							<config>
+								<type>link</type>
+								<size>60</size>
+								<allowedTypes>
+									<numIndex index="0">page</numIndex>
+									<numIndex index="1">url</numIndex>
+								</allowedTypes>
+							</config>
+                        </TCEforms>
+                    </settings.redirectAfterSign>
+				</el>
+			</ROOT>
+		</sDEF>
+	</sheets>
+</T3DataStructure>

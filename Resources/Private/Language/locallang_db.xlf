@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:docuseal/Resources/Private/Language/locallang_db.xlf" date="2022-09-06T08:00:26Z" product-name="docuseal">
+		<header/>
+		<body>
+			<trans-unit id="flexform.head" resname="flexform.head">
+				<source>Plugin Configuration</source>
+			</trans-unit>
+			<trans-unit id="flexform.redirectAfterSign" resname="flexform.redirectAfterSign">
+				<source>Redirect to the specified Page/URL after the document is signed.</source>
+			</trans-unit>
+
+			<trans-unit id="tx_docuseal_pi1.name" resname="tx_docuseal_pi1.name">
+				<source>DocuSeal: User Signature</source>
+			</trans-unit>
+			<trans-unit id="tx_docuseal_pi1.description" resname="tx_docuseal_pi1.description">
+				<source>This plugin helps to get FE user signature from DocuSeal.</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
